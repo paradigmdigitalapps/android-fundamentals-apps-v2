@@ -1,6 +1,19 @@
 Android Developer Fundamentals (Version 2)
 ==========================================
 
+Knowledge sources
+-----------------
+
+[Android DEV fundamentals training](https://developer.android.com/courses/fundamentals-training/toc-v2)
+
+[Android DEV - notification document](https://developer.android.com/guide/topics/ui/notifiers/notifications)
+
+[Android DEV - Firebase Cloud Messaging document](https://firebase.google.com/docs/cloud-messaging)
+
+[Git examples](https://github.com/paradigmdigitalapps/android-fundamentals-apps-v2)
+
+[Android Studio document](https://developer.android.com/studio/intro)
+
 This repository contains samples, starter code, and solutions for
 Version 2 of the Android Developer Fundamentals course (August 2018).
 
